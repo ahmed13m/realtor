@@ -1,6 +1,6 @@
 import Router from "next/router";
 import Head from "next/head";
-import NProgress from "NProgress";
+import nProgress from "nProgress";
 import "../styles/globals.css";
 import { ChakraProvider } from "@chakra-ui/react";
 
